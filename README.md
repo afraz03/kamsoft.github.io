@@ -1,2 +1,2 @@
-# kamsoft.github.io
-kamsoft
+# website
+Website for Kamsoft
